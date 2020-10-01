@@ -1,0 +1,7 @@
+{
+	"package_name": "awesome_package",
+	"description": "An awesome package.",
+	"version": "0.0.1",
+	"author": "Patrick Winter",
+	"author_email": "patrickwinter@posteo.ch"
+}
